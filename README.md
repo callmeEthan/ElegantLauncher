@@ -38,7 +38,7 @@ Plugin included:
 [Drag&Drop V3.1.3](https://forum.rainmeter.net/viewtopic.php?t=23107) by theAzack9.  
 [ImageSize](https://forum.rainmeter.net/viewtopic.php?t=18822) by jsmorley.  
 Some icons from [materialdesignicons.com](materialdesignicons.com).  
-Some game cover and icons are included.  
+Some game wallpaper are included.  
 
 ## Authors
 [Ethan (Finch)](https://github.com/callmeEthan).  
