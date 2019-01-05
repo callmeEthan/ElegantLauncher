@@ -6,7 +6,7 @@ This skin work by carefully crop the image and move the panels at the same time 
 This actually took a long time to write.  
 
 ## Feature
-* Dynamic, you can add as much as 50 apps or more, I don't recommend doing that though.  
+* Dynamic, you can add as much as 50 games or more, I don't recommend doing that though.  
 * Navigate with mouse wheel or arrow keys, escape to exit.  
 * Work with controller, activate launcher with Start (only when explorer or rainmeter in foreground, not to interfere with user activity).  
 * Smooth scrolling animation.  
