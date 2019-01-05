@@ -24,6 +24,9 @@ Rainmeter 4.3 use Direct2D and support **hardware acceleration**, this help larg
 
 
 ## Usage
+Activate button skin are included.  
+Or load skin ListSpectrum.ini in rainmeter.  
+Instruction and configuration interface included.  
 For best visual, please use background images that is equal or bigger than skin size (skin size = display width by default)  
 
 ## Credit
