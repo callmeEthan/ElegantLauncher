@@ -17,8 +17,10 @@ This actually took a long time to write.
 ## Installation
 Require rainmeter 4+ and windows 10.  
 Download rainmeter at https://www.rainmeter.net/.  
-I highly recommend Rainmeter 4.3 beta r3266, there are scaling issues with newer version</h3> rainmeter 4.3 use Direct2D and support hardware acceleration, this help larger skin and animation runs MUCH smoother. (depend on your hardware)  
-Download and install [skin file](https://github.com/callmeEthan/ElegantLauncher/raw/master/elegant_launcher_v1_1_for_rainmeter.rmskin)
+Download and install [skin file](https://github.com/callmeEthan/ElegantLauncher/raw/master/elegant_launcher_v1_1_for_rainmeter.rmskin)  
+  
+I highly recommend Rainmeter 4.3 beta r3266, there are cropping issues with newer version (May get fixed in the future)  
+Rainmeter 4.3 use Direct2D and support **hardware acceleration**, this help larger skin and animation runs MUCH smoother. (depend on your hardware)  
 
 
 ## Usage
